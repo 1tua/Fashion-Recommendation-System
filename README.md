@@ -1,3 +1,4 @@
+![](images/fashion_ss19.jpg)
 # Fashion Recommendation System
 A fashion recommendation system that will suggest similar clothes based on their description ( i.e colour, category). To create this I will be using convolutional neural network (CNN) and neural network embeddings. 
 
