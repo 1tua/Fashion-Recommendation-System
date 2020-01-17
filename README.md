@@ -2,7 +2,7 @@
 A fashion recommendation system that will suggest similar clothes based on their description ( i.e colour, category). To create this I will be using convolutional neural network (CNN) and neural network embeddings. 
 
 # Data
-Fashion images and dataset with fashion annotation is from ImageLab.http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=18  
+Fashion images and dataset with fashion annotation is from ImageLab. http://imagelab.ing.unimore.it/imagelab2015/researchactivity.asp?idAttivita=18  
 Imagelab is a research laboratory at the Dipartimento di Ingegneria "Enzo Ferrari", University of Modena and Reggio Emilia, Italy. 
 From the link provided above, ~ 60,000 fashion images were obtained along with the Dataframe with has the descriptions on the images.
 
