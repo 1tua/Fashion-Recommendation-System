@@ -1,4 +1,5 @@
-![](images/fashion_ss19.jpg)
+![](Images/fashion_ss19.jpg)
+
 # Fashion Recommendation System
 A fashion recommendation system that will suggest similar clothes based on their description ( i.e colour, category). To create this I will be using convolutional neural network (CNN) and neural network embeddings. 
 
@@ -80,6 +81,8 @@ We can reduce the dimensonality of the input fashion images and convert them to 
 # Result 
 
 By selecting a fashion image, six images that have the closest distance to the input image are plotted.
+
+![](Images/Women_Trousers.png)
 
 # TSNE Visualization of Fashion Embedding
 
