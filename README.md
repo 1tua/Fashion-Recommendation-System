@@ -51,6 +51,7 @@ model = models.Sequential([
 
 model.summary()
 ```
+```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -62,7 +63,7 @@ Total params: 23,587,712
 Trainable params: 0
 Non-trainable params: 23,587,712
 _________________________________________________________________
-
+```
 
 
 ## Neural Network Embedding
@@ -84,8 +85,6 @@ By selecting a fashion image, six images that have the closest distance to the i
 TSNE: t-Stochastic Distributed Neighbors Embedding, are  methods that use the idea of a manifold to map vecotrs to a lower dimensional embedded space. Therefore, we are taking the ~7500 fashion images, and then embedding them down to 2 dimensions to plot them on a graph. The primary idea behind dimension reduction is that there is a lower dimensional representation of the vectors that can still capture the variation between different groups. We want the embeddings to represent similar images close to one another but in fewer dimensions that allow us to visualize the entities.
 
 # Further Work
-
-Next steps would be to build a "Buy The Look" recommendation system which instead of producing images that are similar to the input image i.e similar gold shoes when a gold trainer is selected, it will recommened fashion items that will go together well i.e select blue jeans and user is suggested a shirt, jacket and shoes that will go nicely with the jeans.  
 
 
 
