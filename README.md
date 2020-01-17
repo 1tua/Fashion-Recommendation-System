@@ -87,6 +87,8 @@ By selecting a fashion image, six images that have the closest distance to the i
 # TSNE Visualization of Fashion Embedding
 
 TSNE: t-Stochastic Distributed Neighbors Embedding, are  methods that use the idea of a manifold to map vecotrs to a lower dimensional embedded space. Therefore, we are taking the ~7500 fashion images, and then embedding them down to 2 dimensions to plot them on a graph. The primary idea behind dimension reduction is that there is a lower dimensional representation of the vectors that can still capture the variation between different groups. We want the embeddings to represent similar images close to one another but in fewer dimensions that allow us to visualize the entities.
+![](Images/tsne.png)
+
 
 # Further Work
 
