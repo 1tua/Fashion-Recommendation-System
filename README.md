@@ -90,7 +90,7 @@ TSNE: t-Stochastic Distributed Neighbors Embedding, are  methods that use the id
 
 # Further Work
 
-
+Next steps would be to let a focus group use the recommendation system and collecet feedback to rate how well the system is performing. Then based on the feedback, tweak the model and let the focus group use the model again to see if their feedback improves.
 
 
 
