@@ -24,6 +24,7 @@ To run this project, install it locally using pip:
 !pip install PIL
 !pip install Swifter
 !pip install keras
+!pip install opencv-python
 ```
 ### Visualizations
 
