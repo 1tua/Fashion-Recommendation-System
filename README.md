@@ -90,10 +90,13 @@ By selecting a fashion image, six images that have the closest distance to the i
 TSNE: t-Stochastic Distributed Neighbors Embedding, are  methods that use the idea of a manifold to map vecotrs to a lower dimensional embedded space. Therefore, we are taking the ~7500 fashion images, and then embedding them down to 2 dimensions to plot them on a graph. The primary idea behind dimension reduction is that there is a lower dimensional representation of the vectors that can still capture the variation between different groups. We want the embeddings to represent similar images close to one another but in fewer dimensions that allow us to visualize the entities.
 ![](Images/tsne.png)
 
+# Acknowledgement
+
+I would like to thank Flatiron school and the Flatiron coaches; Dan, Dave, Wachira and Jon Tyler for thier help and guidance in my project
 
 # Further Work
 
-Next steps would be to let a focus group use the recommendation system and collecet feedback to rate how well the system is performing. Then based on the feedback, tweak the model and let the focus group use the model again to see if their feedback improves.
+Next steps would be to build a website using Flask or any other web application framework and have the recommendation system running in the backend. Therefore users can select clothes and the website will suggest them similar clothes.
 
 
 
