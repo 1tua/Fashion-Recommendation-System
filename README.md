@@ -26,6 +26,24 @@ To run this project, install it locally using pip:
 !pip install keras
 !pip install opencv-python
 ```
+### Summary of files
+fashion.py: Includes functions that perform the following tasks;
+
+- Deleting rows with null values and duplicated rows
+- Translating column names to english
+- ResNet Model 
+- Embedding of images
+
+Fashion_RC.ipynb: Technical notebook that includes
+
+Asuumption checks
+- Visualisation of EDA
+- Feature Selection
+- Neural Network model
+- T-SNE 
+
+Recommendation powerpoint: Includes a powerpoint about the business case for using a recommendation system in Fashion.
+
 ### Visualizations
 
 All visualizations were presented using matplotlip and Pillow (PIL Fork) libraries 
