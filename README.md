@@ -36,7 +36,7 @@ fashion.py: Includes functions that perform the following tasks;
 
 Fashion_RC.ipynb: Technical notebook that includes
 
-Asuumption checks
+- Asuumption checks
 - Visualisation of EDA
 - Feature Selection
 - Neural Network model
