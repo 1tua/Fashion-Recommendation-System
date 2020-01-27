@@ -30,7 +30,7 @@ To run this project, install it locally using pip:
 fashion.py: Includes functions that perform the following tasks;
 
 - Deleting rows with null values and duplicated rows
-- Translating column names to english
+- Translating column names to English
 - ResNet Model 
 - Embedding of images
 
@@ -39,7 +39,7 @@ Fashion_RC.ipynb: Technical notebook that includes
 - Asuumption checks
 - Visualisation of EDA
 - Feature Selection
-- Neural Network model
+- Neural Network Model
 - T-SNE 
 
 Recommendation powerpoint: Includes a powerpoint about the business case for using a recommendation system in Fashion.
