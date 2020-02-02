@@ -9,7 +9,7 @@ Imagelab is a research laboratory at the Dipartimento di Ingegneria "Enzo Ferrar
 From the link provided above, ~ 60,000 fashion images were obtained along with the Dataframe with has the descriptions on the images.
 
 # Introduction 
-An increasing number of online fashion companies are utilizing recommendation systems to increase user interaction and enhance the shopping experience. Companies like ASOS and Zalando have a massive offering of clothes and accessories. Although these companies give customers a wider range of clothes to choose from, they may become overwhelmed and have a difficult time making a decision when faced with many options. This is where recommendation systems step in, it suggest the most relevant items to buy and, as a result, increase a company’s revenue. In this notebook, I will be building a fashion recommendation system that will suggest similar clothes based on their description.
+An increasing number of online fashion companies are utilizing recommendation systems to increase user interaction and enhance the shopping experience. Companies like ASOS and Zalando have a massive offering of clothes and accessories. Although these companies give customers a wider range of clothes to choose from, they may become overwhelmed and have a difficult time making a decision when faced with many options. This is where recommendation systems step in, it suggest the most relevant items to buy and, as a result, can increase a company’s revenue. In this notebook, I will be building a fashion recommendation system that will suggest similar clothes based on their description.
 
 
 ### Technologies
