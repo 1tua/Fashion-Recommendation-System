@@ -49,7 +49,7 @@ Recommendation powerpoint: Includes a powerpoint about the business case for usi
 All visualizations were presented using matplotlip and Pillow (PIL Fork) libraries 
 
 # Convolutional Neural Networks
-In order to recommend similiar fashion images to an input image, we must first classify the images. To do this we use deep convolutional neural networks. This is used to could be extract high level representations of the image content. Instead of preprocessing the data to derive features like textures and shapes, a CNN takes the image’s raw pixel data as input and “learns” how to extract these features, and determines what the object is. For this project, a pre trained ResNet-50 model is used.
+In order to recommend similiar fashion images to an input image, we must first classify the images. To do this we use deep convolutional neural networks. This is used to extract high level representations of the image content. The CNN takes the image’s raw pixel data as input and “learns” how to extract features, and determines what the object is. For this project, a pre trained ResNet-50 model is used.
 
 ## ResNet-50
 ResNet is characterized by the residual block structure. This incorporates identity shortcut connections which essentially skip the training of one or more layers. In the Keras package, I loaded the ResNet-50 model and download weights pretrained on ImageNet dataset(ImageNet is a large visual database designed for use in visual object recognition software research).
